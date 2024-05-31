@@ -3,7 +3,6 @@ layout: post
 title: Week 1
 by: Tyler Mitchell
 ---
-
 During the first week, I got to meet the other members and faculty for the CEAMLS program. I also got to see my project team. 
 My project team and I discussed some of the intentions and end-goals of the project, and I was able to get aquainted with complex topics
 such as Linear Regression, Random Forest Classifier, and more basic rules of coding like datatypes (strings, integers, flows, etc).
