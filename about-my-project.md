@@ -1,6 +1,6 @@
 ## About My Project
 
-The teaam project is on Robot Autonomy:
+The team project is on Robot Autonomy:
 
 Problem: How can we develop an AI capable of mapping out pattern-detection using Supervised Learning?
 
