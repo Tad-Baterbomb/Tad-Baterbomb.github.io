@@ -1,1 +1,5 @@
-I cannot see the future, I don't know what I did during week 2 until I experience it
+---
+layout: post
+title: Week 2
+by: Tyler Mitchell
+---
